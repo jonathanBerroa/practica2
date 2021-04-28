@@ -28,7 +28,7 @@ namespace practica2.Controllers
             return View();
         }
 
-        public IActionResult Privacy2()
+        public IActionResult quiene()
         {
             return View();
         }
