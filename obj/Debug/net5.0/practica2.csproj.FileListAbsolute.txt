@@ -41,3 +41,5 @@ C:\Users\S4GIT\OneDrive\Escritorio\piñatas\practica2\obj\Debug\net5.0\ref\pract
 C:\Users\S4GIT\OneDrive\Escritorio\piñatas\practica2\obj\Debug\net5.0\practica2.pdb
 C:\Users\S4GIT\OneDrive\Escritorio\piñatas\practica2\obj\Debug\net5.0\practica2.genruntimeconfig.cache
 C:\Users\S4GIT\OneDrive\Escritorio\piñatas\practica2\obj\Debug\net5.0\practica2.csproj.CopyComplete
+C:\Users\S4GIT\OneDrive\Escritorio\piñatas\practica2\obj\Debug\net5.0\Razor\Views\Home\Privacy3.cshtml.g.cs
+C:\Users\S4GIT\OneDrive\Escritorio\piñatas\practica2\obj\Debug\net5.0\Razor\Views\formulario\formulario.cshtml.g.cs
